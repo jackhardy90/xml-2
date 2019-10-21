@@ -1,0 +1,29 @@
+<actor>
+    <name>Jhonny Depp<name>
+    <age>50</age>
+    <netWorth>$20</netWorth>
+    <bestMovie>Pirates of the caribbean</bestMovie>
+<actor>
+
+<actor>
+    <name>Matthew McConaughey</actor>
+    <age>49</age>
+    <netWorth>$10000</netWorth>
+    <bestMovie>Interstellar</bestMovie>
+</actor>
+
+<actress>
+    <name>Julia Roberts</name>
+    <age>49</age>
+    <netWorth>$40000</netWorth>
+    <bestMovie>Pretty Woman</bestMovie>
+</actress>
+
+<actress>
+    <name>Michelle Rodriguez</name>
+    <age>40</age>
+    <netWorth>$500000</netWorth>
+    <bestMovie>Fast and Furious</bestMovie>
+</actress>
+
+
